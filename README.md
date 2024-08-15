@@ -23,6 +23,12 @@ Data cleaning and formatting.
 
 EDA involved exploring the sales data to answer key questions, such as:
 
+- What is the overall sales trend?
+- Who are the Top customer by qantity?
+- Who are the Top customer by revenue?
+- 
+-
+
 -
 
 
