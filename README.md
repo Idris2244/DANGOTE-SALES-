@@ -26,10 +26,14 @@ EDA involved exploring the sales data to answer key questions, such as:
 - What is the overall sales trend?
 - Who are the Top customer by qantity?
 - Who are the Top customer by revenue?
+- What are the sales regions within our organization, and how are they defined?
+- What is the Top product by revenue?
+- What are the Top category by revenue?
+- Which salesperson generates the highest revenue?
+- Which payment type is the best?
+- Which shipper charges the highest fee?
 - 
--
 
--
 
 
 
