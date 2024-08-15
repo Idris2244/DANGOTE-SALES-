@@ -27,14 +27,16 @@ EDA involved exploring the sales data to answer key questions, such as:
 - Who are the Top customer by qantity?
 - Who are the Top customer by revenue?
 - What are the sales regions within our organization, and how are they defined?
-- What is the Top product by revenue?
-- What are the Top category by revenue?
+- What is the Top 10 product by revenue?
+- What is the Top 5 bottom product by revenue?
+- What are the Top 5 category by revenue?
 - Which salesperson generates the highest revenue?
 - Which payment type is the best?
 - Which shipper charges the highest fee?
-- 
+- Which shipper handles the highest quantity?
+- Which shipper generates the highest revenue?
 
+### Results & Findings 
 
-
-
-
+#### Sales Trend:
+ Sales have experienced a decline in February, April, and November.
