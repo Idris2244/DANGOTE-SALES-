@@ -4,6 +4,8 @@
 
 This data analysis project aims to provide insights into the sales performance of Dangote company over the year 2014. By analyzing various aspects of the salesdata, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
+![Capture](https://github.com/user-attachments/assets/f092a36c-8319-42b6-9659-f898a408495f)
+
 ### Data Sources 
 
 Sales Data: The primary dataset used for this analysis is the "Dangote Sales Data.file, containing detailed information about each sale made by the company.
@@ -24,7 +26,6 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 - What is the overall sales trend?
 - Who are the Top customer by qantity?
-- Who are the Top customer by revenue?
 - What are the sales regions within our organization, and how are they defined?
 - What is the Top 10 product by revenue?
 - What is the Top 5 bottom product by revenue?
@@ -32,7 +33,6 @@ EDA involved exploring the sales data to answer key questions, such as:
 - Which salesperson generates the highest revenue?
 - Which payment type is the best?
 - Which shipper charges the highest fee?
-- Which shipper handles the highest quantity?
 - Which shipper generates the highest revenue?
 
 ### Results & Findings 
