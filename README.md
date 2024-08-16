@@ -16,9 +16,9 @@ Sales Data: The primary dataset used for this analysis is the "Dangote Sales Dat
 ### Data Quanlity and Assessment/Cleaning 
 
 In the initial data preparation phase, we performed the following tasks:
-Data loading and inspection.
-Handling missing values to unknown.
-Data cleaning and formatting.
+- Data loading and inspection.
+- Handling missing values to unknown.
+- Data cleaning and formatting.
 
 ### Exploratory Data Analysis 
 
