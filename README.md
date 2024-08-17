@@ -4,7 +4,8 @@
 
 This data analysis project aims to provide insights into the sales performance of Dangote company over the year 2014. By analyzing various aspects of the salesdata, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
-![Capture](https://github.com/user-attachments/assets/f092a36c-8319-42b6-9659-f898a408495f)
+![Capture 2](https://github.com/user-attachments/assets/0abf2607-84ff-4825-a42d-5b2f6a465631)
+
 
 ### Data Sources 
 
